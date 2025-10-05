@@ -559,14 +559,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/mamangzed/BuzzerDetector/issues)
 - **Discussions**: [Community discussions and questions](https://github.com/mamangzed/BuzzerDetector/discussions)
 
-### Documentation
-- **Wiki**: [Detailed documentation and guides](https://github.com/mamangzed/BuzzerDetector/wiki)
-- **API Reference**: [Complete API documentation](docs/api.md)
-- **Examples**: [Usage examples and tutorials](examples/)
-
 ### Community
 - **Email**: Contact project maintainers
-- **Security Issues**: Report privately to security@domain.com
+- **Security Issues**: Report privately to wanda@scriptin.id
 
 ---
 
