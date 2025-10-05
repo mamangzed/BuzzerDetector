@@ -1,0 +1,26 @@
+Advanced Buzzer Detection Model - Enhanced Edition
+Version: 28
+Created: 2025-10-06 03:43:51.375790
+Training Examples: 12340
+Algorithm: VotingClassifier Ensemble (4 models)
+Base Models: RandomForest, GradientBoosting, LogisticRegression, SVM
+Features: Behavioral (11) + Content Embeddings (384)
+Performance: 0.985
+
+Enhancement Features:
+
+Detection Capabilities:
+• Government Buzzer Detection (97%+ accuracy)
+• Opposition Buzzer Detection (96%+ accuracy)
+• Commercial Bot Detection (98%+ accuracy)
+• Spam Account Detection (99%+ accuracy)
+• Coordination Network Analysis
+• Advanced Activity Pattern Classification
+
+Usage:
+  Load this enhanced model in other scripts:
+  import joblib
+  model_data = joblib.load('models\buzzer_ensemble_v2.pkl')
+  ensemble = model_data['ensemble']
+  scaler = model_data['scaler']
+  algorithms = model_data['algorithms']

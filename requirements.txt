@@ -1,0 +1,70 @@
+# BuzzerDetector Requirements
+# Core dependencies untuk Anti Buzzer Detection System
+
+# Data Science & Machine Learning
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+tqdm>=4.62.0
+
+# Machine Learning - Enhanced Models (Optional tapi direkomendasikan)
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Database Support
+mysql-connector-python>=8.0.0
+
+# Embeddings & NLP (Optional - untuk analisis yang lebih akurat)
+sentence-transformers>=2.2.0
+transformers>=4.20.0
+torch>=1.12.0
+
+# Web Scraping
+playwright>=1.30.0
+snscrape>=0.4.3.20220106
+
+# Configuration Management
+python-dotenv>=0.19.0
+
+# Data Visualization & Analysis
+networkx>=2.6.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Model Persistence
+joblib>=1.1.0
+
+# Optional Advanced Dependencies
+# Uncomment jika diperlukan untuk fitur tambahan:
+
+# Deep Learning (Optional)
+# tensorflow>=2.8.0
+# keras>=2.8.0
+
+# Advanced NLP (Optional)
+# spacy>=3.4.0
+# nltk>=3.7.0
+
+# Advanced Visualization (Optional) 
+# plotly>=5.6.0
+# bokeh>=2.4.0
+
+# Database Alternatives (Optional)
+# postgresql-adapter>=0.1.0  # Jika menggunakan PostgreSQL
+# pymongo>=4.0.0            # Jika menggunakan MongoDB
+
+# Performance & Monitoring (Optional)
+# psutil>=5.8.0             # System monitoring
+# memory-profiler>=0.60.0   # Memory profiling
+
+# API Development (Optional - jika menjalankan API server)
+# fastapi>=0.75.0
+# uvicorn>=0.17.0
+# pydantic>=1.9.0
+
+# Note: 
+# 1. Untuk menginstall semua dependencies: pip install -r requirements.txt
+# 2. Untuk embeddings yang akurat, pastikan model sentence-transformers ter-download
+# 3. Untuk Playwright: Setelah install, jalankan: playwright install
+# 4. Beberapa dependencies bersifat opsional tergantung fitur yang digunakan

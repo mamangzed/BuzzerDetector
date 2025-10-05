@@ -1,0 +1,70 @@
+MIT License
+
+Copyright (c) 2025 BuzzerDetector Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+IMPORTANT TERMS OF USE AND DISCLAIMER:
+
+1. AUTHORIZED USE ONLY
+   This tool is intended ONLY for:
+   - Authorized penetration testing and security research
+   - Academic research with proper institutional approval
+   - Internal audits by organizations on their own systems
+   - Official media investigations with appropriate legal authority
+   - Cybersecurity research with explicit consent
+
+2. PROHIBITED USES
+   This tool must NOT be used for:
+   - Unauthorized surveillance or monitoring
+   - Harassment, stalking, or intimidation
+   - Privacy violations or data theft
+   - Violation of platform Terms of Service
+   - Any illegal activities under local, national, or international law
+
+3. USER RESPONSIBILITIES
+   Users must:
+   - Obtain explicit consent from data owners or platforms before use
+   - Comply with all applicable laws and regulations
+   - Respect privacy rights and platform terms of service
+   - Use the tool ethically and responsibly
+   - Properly secure any collected data
+
+4. DISCLAIMER OF LIABILITY
+   The authors and contributors of this software:
+   - Disclaim all liability for misuse of this tool
+   - Do not endorse or encourage unauthorized use
+   - Are not responsible for any legal consequences of improper use
+   - Provide this software for legitimate research and security purposes only
+
+5. DATA PROTECTION
+   Users must:
+   - Implement appropriate data protection measures
+   - Anonymize or pseudonymize personal data where possible
+   - Follow data retention and deletion policies
+   - Comply with applicable data protection regulations (GDPR, CCPA, etc.)
+
+6. REPORTING MISUSE
+   If you become aware of misuse of this software, please report it to the
+   project maintainers immediately.
+
+By using this software, you acknowledge that you have read, understood, and
+agree to comply with these terms and all applicable laws and regulations.
